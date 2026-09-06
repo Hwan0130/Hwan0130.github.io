@@ -5,5 +5,4 @@ cv_pdf: /assets/pdf/Hwanseok_Sim_CV.pdf # path to your CV PDF file
 email: hwanseoksim@gmail.com # your email address
 github_username: Hwan0130 # your GitHub username
 linkedin_username: hwanseok-sim-8ab795362 # your LinkedIn username
-rss_icon: true # comment this line to hide the RSS icon
 scholar_userid: VmH5tfQAAAAJ # your Google Scholar ID
