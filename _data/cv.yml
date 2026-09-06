@@ -2,8 +2,6 @@ cv:
   name: Hwanseok Sim
   label: Undergraduate
   email: hwanseoksim@gmail.com
-  location: Seoul, Republic of Korea
-  image: ""
   summary: Undergraduate researcher developing deep learning methods to interpret genetic variation and understand the regulatory logic of the human genome, with a focus on autism and neurodevelopmental disorders.
 
   social_networks:
@@ -13,11 +11,7 @@ cv:
       username: hwanseok-sim-8ab795362
 
   address:
-    street: ""
-    city: Seoul
-    region: ""
-    postalCode: ""
-    countryCode: KR
+    city: Seoul, Republic of Korea
 
   sections:
     Education:
@@ -27,9 +21,8 @@ cv:
         area: Computer Science and Engineering
         studyType: B.Sc.
         start_date: 2020
-        end_date: present
-        score: "GPA 4.35/4.5"
         highlights:
+          - "GPA: 4.35/4.5"
           - Dual degree, pursued concurrently with Biosystems and Biomedical Sciences.
 
       - institution: Korea University
@@ -38,8 +31,6 @@ cv:
         area: Biosystems and Biomedical Sciences
         studyType: B.Sc.
         start_date: 2020
-        end_date: present
-        score: "GPA 4.35/4.5"
 
       - institution: Daegu Science High School for the Gifted
         location: Daegu, Republic of Korea
@@ -54,7 +45,6 @@ cv:
         location: Seoul, Republic of Korea
         url: https://joonanlab.github.io/
         start_date: 2024
-        end_date: present
         summary: "Supervisor: Prof. Joon-Yong An"
         highlights:
           - Built genomic language / representation models for variant-effect prediction, including an annotation-aware knowledge-distillation framework (annDNA).
@@ -84,37 +74,22 @@ cv:
 
     Publications:
       - title: "annDNA: Learning Annotation-Aware Genomic Representations via Knowledge Distillation"
-        authors:
-          - Sim H*
-          - Kim Y
-          - Kim SW
-          - Ryu Y
-          - An JY†
         publisher: ICML GenBio Workshop
         releaseDate: 2026-07-01
         summary: Spotlight.
+        url: https://openreview.net/forum?id=vmpP5SzOFK
 
       - title: "Genomic Language Models: Architecture, Variant Interpretation, and the Context Distribution Problem"
-        authors:
-          - Sim H*
-          - Kim Y*
-          - Park W
-          - Park S
-          - Nam JW
-          - An JY†
-        publisher: Experimental & Molecular Medicine (Under review)
-        summary: First-author publication.
+        publisher: Experimental & Molecular Medicine
+        releaseDate: 2026-01-01
+        summary: Under review.
 
       - title: "In Silico Mutagenesis Using Genomic Foundation Models Identifies Functional Variants and Cell-Type-Specific Regulation at the CD19 Enhancer"
-        authors:
-          - Sim H*
-          - Kim Y
-          - An JY†
         publisher: ASHG
         releaseDate: 2026-10-01
         summary: Poster accepted.
 
-    Honors:
+    Honors and Awards:
       - title: "ASHG 2026 Annual Meeting (Poster; accepted)"
         date: 2026-10-01
         awarder: American Society of Human Genetics
@@ -135,7 +110,7 @@ cv:
       - title: "KU Scholarship (full funding)"
         date: 2020-01-01
 
-    Service:
+    Volunteer:
       - company: ROKAF 38th Fighter Group, USAF 8th Fighter Wing
         position: Military Service
         start_date: 2022
@@ -149,7 +124,22 @@ cv:
 
     Skills:
       - name: Computing
-        keywords: "Python, R, PyTorch, HuggingFace, AWS, Slurm, Docker, Git"
+        keywords:
+          - Python
+          - R
+          - PyTorch
+          - HuggingFace
+          - AWS
+          - Slurm
+          - Docker
+          - Git
 
       - name: Data
-        keywords: "WGS, scRNA-seq, snATAC-seq, ChIP-seq, CRISPR, MPRA, GWAS"
+        keywords:
+          - WGS
+          - scRNA-seq
+          - snATAC-seq
+          - ChIP-seq
+          - CRISPR
+          - MPRA
+          - GWAS
