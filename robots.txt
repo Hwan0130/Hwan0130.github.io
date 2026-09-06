@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://hwan0130.github.io/Hwanseok/sitemap.xml
+Sitemap: https://hwan0130.github.io/sitemap.xml
