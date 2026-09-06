@@ -22,6 +22,8 @@ latest_posts:
   enabled: false
 ---
 
-I'm an undergraduate at [Korea University](https://www.korea.ac.kr/), pursuing dual B.Sc. degrees in Computer Science and Engineering and Biosystems and Biomedical Sciences. I do research in the [Lab of Human Genomics](https://joonanlab.github.io/) under Prof. Joon-Yong An.
+Hi, I'm Hwanseok! I'm an undergrad at [Korea University](https://www.korea.ac.kr/), working through dual B.Sc. degrees in Computer Science and Engineering and Biosystems and Biomedical Sciences. I do research in the [Lab of Human Genomics](https://joonanlab.github.io/) with Prof. [Joon-Yong An](https://scholar.google.com/citations?user=eTLI6dsAAAAJ&hl=ko&oi=ao).
 
-My research focuses on developing deep learning methods to interpret genetic variation and understand the regulatory logic of the human genome. I'm particularly interested in uncovering the genetic and regulatory architecture of autism and other neurodevelopmental disorders through cohort-scale genomic analysis, and in advancing the interpretability of genomic models to connect learned representations with biologically meaningful mechanisms.
+I like building deep learning methods that help make sense of genetic variation and the regulatory logic tucked away in the human genome. Lately I've been especially drawn to autism and other neurodevelopmental disorders — digging into their genetic and regulatory architecture through cohort-scale genomic analysis — and to making genomic models more interpretable, so what they learn actually connects back to real biological mechanisms.
+
+I'm currently applying to PhD programs in the US — feel free to reach out if you'd like to chat!
