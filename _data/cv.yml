@@ -11,7 +11,8 @@ cv:
       username: hwanseok-sim-8ab795362
 
   address:
-    city: Seoul, Republic of Korea
+    city: Seoul
+    region: Republic of Korea
 
   sections:
     Education:
@@ -48,7 +49,7 @@ cv:
         summary: "Supervisor: Prof. Joon-Yong An"
         highlights:
           - Built genomic language / representation models for variant-effect prediction, including an annotation-aware knowledge-distillation framework (annDNA).
-          - Applied these models to autism spectrum disorder: subtyping from whole-genome de novo variants, synthetic enhancer design, and in silico mutagenesis of regulatory elements.
+          - "Applied these models to autism spectrum disorder: subtyping from whole-genome de novo variants, synthetic enhancer design, and in silico mutagenesis of regulatory elements."
           - Contributed to a brain-organoid in silico perturbation framework, analyzing gene regulatory networks via network propagation.
 
       - company: Lab of Neuronal Cell Death, DGIST
