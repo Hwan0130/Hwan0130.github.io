@@ -138,6 +138,10 @@ newsletter:
 # -----------------------------------------------------------------------------
 
 collections:
+  news:
+    defaults:
+      layout: post
+    output: true
   projects:
     output: false
 
