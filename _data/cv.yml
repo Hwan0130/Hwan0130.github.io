@@ -57,11 +57,9 @@ cv:
         end_date: present
         summary: "Supervisor: Prof. Joon-Yong An"
         highlights:
-          - Developed an annotation-aware genomic representation framework using knowledge distillation, improving the variant effect prediction performance of a semi-supervised genomic model.
-          - Performed in silico MPRA on psychiatric-disorder GWAS variants to nominate candidate functional variants for experimental validation.
-          - Developed models to analyze ASD subtypes and predict phenotypes using whole genome de novo variants from large scale ASD cohorts (SSC, MSSNG, SFARI, Korean).
-          - Designed cell-type-specific synthetic enhancers targeting the MEF2C gene, which shows ASD-specific regulatory patterns, using deep learning models.
-          - Contributed to the development of a brain organoid in silico perturbation framework (AIVC); analyzed gene-gene networks using network propagation.
+          - Built genomic language / representation models for variant-effect prediction, including an annotation-aware knowledge-distillation framework (annDNA).
+          - Applied these models to autism spectrum disorder: subtyping from whole-genome de novo variants, synthetic enhancer design, and in silico mutagenesis of regulatory elements.
+          - Contributed to a brain-organoid in silico perturbation framework, analyzing gene regulatory networks via network propagation.
 
       - company: Lab of Neuronal Cell Death, DGIST
         position: Research Intern
@@ -114,51 +112,6 @@ cv:
           - An JY†
         publisher: Manuscript in preparation
         summary: First-author publication.
-
-      - title: "AI-driven framework modeling perturbation in brain organoids reveals candidate genes for autism"
-        authors:
-          - Koh IG*
-          - Chang E*
-          - Choi YS*
-          - "et al."
-          - An JY†
-        publisher: Cell (Under review)
-
-      - title: "Modeling germline mutational mechanisms to generate synthetic de novo variants"
-        authors:
-          - Kim Y*
-          - Lee H*
-          - Hong H*
-          - "et al."
-          - An JY†
-        publisher: eBioMedicine (Under review)
-
-      - title: "Deep learning reveals autism subtypes defined by distinct regulatory architectures and variant burden"
-        authors:
-          - Kim Y*
-          - "et al."
-          - An JY†
-        publisher: Nature Communications (Under review)
-
-      - title: "Challenges in De Novo Variant-Based Autism Spectrum Disorder Prediction Using Genomic Language Models"
-        authors:
-          - Lee J*
-          - Park J*
-          - "et al."
-          - An JY†
-          - Jeon M†
-        publisher: Genome Biology (Under review)
-
-      - title: "Optical Properties and Phenol Destruction Performance of Pd-inserted TiO2 Photocatalysts"
-        authors:
-          - Do JY*
-          - Kim T
-          - Sim H
-          - Jeong H
-          - Choi JH
-          - Kang M†
-        publisher: Applied Chemistry for Engineering
-        releaseDate: 2017-01-01
 
     Honors:
       - title: "ASHG 2026 Annual Meeting (Poster; accepted)"
