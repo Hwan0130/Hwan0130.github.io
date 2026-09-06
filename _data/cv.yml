@@ -90,9 +90,9 @@ cv:
           - Kim SW
           - Ryu Y
           - An JY†
-        publisher: ICML GenBio Workshop (Spotlight)
+        publisher: ICML GenBio Workshop
         releaseDate: 2026-07-01
-        summary: First-author publication.
+        summary: Spotlight.
 
       - title: "Genomic Language Models: Architecture, Variant Interpretation, and the Context Distribution Problem"
         authors:
